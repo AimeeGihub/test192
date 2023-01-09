@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\v-aimeecao\\Source\\Repos\\AimeeGihub\\test192\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\v-aimeecao\\source\\repos\\AimeeGihub\\test192\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\v-aimeecao\\Source\\Repos\\AimeeGihub\\test192\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\v-aimeecao\\source\\repos\\AimeeGihub\\test192\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\v-aimeecao\\Source\\Repos\\AimeeGihub\\test192\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\v-aimeecao\\source\\repos\\AimeeGihub\\test192\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\v-aimeecao\\Source\\Repos\\AimeeGihub\\test192\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\v-aimeecao\\source\\repos\\AimeeGihub\\test192\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\v-aimeecao\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\v-aimeecao\\Source\\Repos\\AimeeGihub\\test192\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\v-aimeecao\\source\\repos\\AimeeGihub\\test192\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
